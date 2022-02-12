@@ -198,7 +198,15 @@ What is the average difference between your predictions and the correct value fo
 ![image](https://user-images.githubusercontent.com/66083579/153649990-b7808c33-641a-4212-a455-c8d5530ddff5.png)
 
 
+
+⦿    **Induction**:  A bottoms-up approach to answering questions or solving problems. A logic technique that goes from observations to theory. E.g. We keep observing X, so we infer that Y must be True.
+
+
+
+
+
 ⦿    **Deduction**:    A top-down approach to answering questions or solving problems. A logic technique that starts with a theory and tests that theory with observations to derive a conclusion. E.g. We suspect X, but we need to test our hypothesis before coming to any conclusions.
+
 
 
 ![image](https://user-images.githubusercontent.com/66083579/153650275-272a93a3-054c-4c93-9831-7c2ac6022b45.png)
@@ -233,7 +241,7 @@ What is the average difference between your predictions and the correct value fo
 
 
 ⦿    **False Positive Rate**:Defined as
-                            **FPR=1−Specificity=FalsePositivesFalsePositives+TrueNegatives**
+                            **FPR=1−Specificity=FalsePositives/FalsePositives+TrueNegatives**
                             
                            The False Positive Rate forms the x-axis of the ROC curve.
                            
@@ -264,10 +272,6 @@ What is the average difference between your predictions and the correct value fo
 
 
 
-⦿    **Induction**:  A bottoms-up approach to answering questions or solving problems. A logic technique that goes from observations to theory. E.g. We keep observing X, so we infer that Y must be True.
-
-
-
 ⦿     **Instance**:   A data point, row, or sample in a dataset. Another term for observation.
 
 
@@ -285,13 +289,107 @@ What is the average difference between your predictions and the correct value fo
 
 
 
+⦿    **Loss**:   
+
+**Loss = true_value(from data-set)- predicted value(from ML-model)**
+
+
+The lower the loss, the better a model (unless the model has over-fitted to the training data). The loss is calculated on training and validation and its interpretation is how well the model is doing for these two sets. Unlike accuracy, loss is not a percentage. It is a summation of the errors made for each example in training or validation sets.
+
+
+![image](https://user-images.githubusercontent.com/66083579/153717474-447ad67f-2277-4bd6-89f5-c03067abd418.png)
+
+
+
+⦿     **Neural Networks**:   Neural Networks are mathematical algorithms modeled after the brain’s architecture, designed to recognize patterns and relationships in data.
+
+
+![image](https://user-images.githubusercontent.com/66083579/153717572-dfd9607e-a4e6-435f-8d10-2cae81e01144.png)
+
+
+
+⦿     **Normalization**:  Restriction of the values of weights in regression to avoid overfitting and improving computation speed.
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153717668-2f7ebcd6-8d14-47d5-9505-41c7083be11e.png)
 
 
 
 
+⦿     **Noise**:   Any irrelevant information or randomness in a dataset which obscures the underlying pattern.
+
+
+![image](https://user-images.githubusercontent.com/66083579/153717737-b8f04bd5-edfe-44bc-b36f-72113aecb3fc.png)
 
 
 
+
+⦿    **Null Accuracy**:   Baseline accuracy that can be achieved by always predicting the most frequent class (“B has the highest frequency, so lets guess B every time”).
+
+
+
+
+⦿     **Outlier**:   An observation that deviates significantly from other observations in the dataset.
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153717825-f74291ea-da08-4494-8a83-c8b9a0472a3d.png)
+
+
+
+⦿      **Parameters**:   Parameters are properties of training data learned by training a machine learning model or classifier. They are adjusted using optimization algorithms and unique to each experiment.
+
+
+**Examples of parameters include**:
+
+**✦**   weights in an artificial neural network
+
+**✦**   support vectors in a support vector machine
+
+**✦**   coefficients in a linear or logistic regression
+
+![image](https://user-images.githubusercontent.com/66083579/153722956-26bc2f9c-d227-4563-97ad-d1f084e9df7a.png)
+
+
+
+
+⦿    **Precision**:   In the context of binary classification (Yes/No), precision measures the model’s performance at classifying positive observations (i.e. “Yes”). In other words, when a positive value is predicted, how often is the prediction correct? We could game this metric by only returning positive for the single observation we are most confident in.
+
+**P =  TruePositives/TruePositives+FalsePositives**
+
+
+
+⦿      **Recall**:   Also called sensitivity. In the context of binary classification (Yes/No), recall measures how “sensitive” the classifier is at detecting positive instances. In other words, for all the true observations in our sample, how many did we “catch.” We could game this metric by always classifying observations as positive.
+
+ **R = TruePositives/TruePositives+FalseNegatives**
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/66083579/153723658-c9542d13-9328-45f8-a1c2-19e097a67ca0.png)
+
+
+
+ ⦿    **Regression**:  Predicting a continuous output (e.g. price, sales).
+ 
+ ![image](https://user-images.githubusercontent.com/66083579/153723756-631ccc35-04d6-4365-a2ea-41582c37d4bc.png)
+
+
+ ⦿   **Regularization**:  Regularization is a technique utilized to combat the overfitting problem. This is achieved by adding a complexity term to the loss function that gives a bigger loss for more complex models.
+ 
+ ![image](https://user-images.githubusercontent.com/66083579/153723830-cfba2e24-2e9f-4aae-a166-53bc59fd2bec.png)
+ 
+ 
+ ⦿      **Reinforcement Learning**:   Training a model to maximize a reward via iterative trial and error.
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/66083579/153723881-52ba72b6-0d89-486f-9779-3e0bb4bd45af.png)
+
+
+⦿  **ROC (Receiver Operating Characteristic) Curve**:  A plot of the true positive rate against the false positive rate at all classification thresholds. This is used to evaluate the performance of a classification model at different classification thresholds. The area under the ROC curve can be interpreted as the probability that the model correctly distinguishes between a randomly chosen positive observation (e.g. “spam”) and a randomly chosen negative observation (e.g. “not spam”).
+
+ 
+ 
+ 
 
 
 
