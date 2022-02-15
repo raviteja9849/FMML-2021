@@ -472,7 +472,53 @@ The lower the loss, the better a model (unless the model has over-fitted to the 
  ![image](https://user-images.githubusercontent.com/66083579/153994826-c7a3ee70-cb85-42bb-8362-f341c1efd5cb.png)
 
  
+ 
+ ![image](https://user-images.githubusercontent.com/66083579/153995592-28a495b8-a5f5-45e9-9a6e-4e91d45659b5.png)
 
+
+
+**Segmentation**:  It is the process of partitioning a data set into multiple distinct sets. This separation is done such that the members of the same set are similar to each otherand different from the members of other sets.
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153995639-09c19515-e3f5-4127-833e-5a0b7cb2cbc9.png)
+
+
+
+**Specificity**:   In the context of binary classification (Yes/No), specificity measures the model’s performance at classifying negative observations (i.e. “No”). In other words, when the correct label is negative, how often is the prediction correct? We could game this metric if we predict everything as negative.
+
+  **S=TrueNegatives/TrueNegatives+FalsePositives**
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153996257-dd9f88b6-263d-4d66-8b6e-03716e26c3cb.png)
+
+
+
+**Supervised Learning**:  Training a model using a labeled dataset.
+
+
+![image](https://user-images.githubusercontent.com/66083579/153996536-35d7585a-e473-4f3c-92cd-aba3942e4671.png)
+
+
+
+**UnSupervised Learning**:   As the name suggests, unsupervised learning is a machine learning technique in which models are not supervised using training dataset. Instead, models itself find the hidden patterns and insights from the given data. It can be compared to learning which takes place in the human brain while learning new things. It can be defined as:
+
+
+**❝Unsupervised learning is a type of machine learning in which models are trained using unlabeled dataset and are allowed to act on that data without any supervision.❞**
+
+
+Unsupervised learning cannot be directly applied to a regression or classification problem because unlike supervised learning, we have the input data but no corresponding output data. The goal of unsupervised learning is to **find the underlying structure of dataset, group that data according to similarities, and represent that dataset in a compressed format.**
+
+
+![image](https://user-images.githubusercontent.com/66083579/153997247-8bcce4c7-adcf-46c6-84fd-19dbff5c26d1.png)
+
+
+
+**Transfer Learning**:  A machine learning method where a model developed for a task is reused as the starting point for a model on a second task. In transfer learning, we take the pre-trained weights of an already trained model (one that has been trained on millions of images belonging to 1000’s of classes, on several high power GPU’s for several days) and use these already learned features to predict new classes.
+
+
+![image](https://user-images.githubusercontent.com/66083579/153997692-90cca64c-c2d1-47f9-b2e9-97e8a613d898.png)
 
 
 
