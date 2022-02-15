@@ -522,6 +522,43 @@ Unsupervised learning cannot be directly applied to a regression or classificati
 
 
 
+**Type 1 Error**:  False Positives. Consider a company optimizing hiring practices to reduce false positives in job offers. A type 1 error occurs when candidate seems good and they hire him, but he is actually bad.
+
+
+
+**Type 2 Error**:
+False Negatives. The candidate was great but the company passed on him.
+
+
+
+
+**Universal Approximation Theorem**:  A neural network with one hidden layer can approximate any continuous function but only for inputs in a specific range. If you train a network on inputs between -2 and 2, then it will work well for inputs in the same range, but you can’t expect it to generalize to other inputs without retraining the model or adding more hidden neurons.
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153998385-9f332608-ab93-41cc-8ea8-a2f6b50cd3d4.png)
+
+
+
+**Validation Set**: A set of observations used during model training to provide feedback on how well the current parameters generalize beyond the training set. If training error decreases but validation error increases, your model is likely overfitting and you should pause training.
+
+
+![image](https://user-images.githubusercontent.com/66083579/153998852-26ba02d8-e31f-44d0-82c8-5267bb2ce1a2.png)
+
+
+
+
+**Variance**:
+
+How tightly packed are your predictions for a particular observation relative to each other?
+
+Low variance suggests your model is internally consistent, with predictions varying little from each other after every iteration.
+High variance (with low bias) suggests your model may be overfitting and reading too deeply into the noise found in every training set.
+
+
+
+
+
 
 
 
