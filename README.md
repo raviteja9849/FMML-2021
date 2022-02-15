@@ -462,6 +462,8 @@ The lower the loss, the better a model (unless the model has over-fitted to the 
 
 
 
+#   ROC  CURVE
+
 ![image](https://user-images.githubusercontent.com/66083579/153994801-7773d451-4a08-4d2e-9a10-b44c9ec386c0.png)
 
 
