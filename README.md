@@ -4,7 +4,7 @@
 
 # What is Machine Learning?
 
-Machine Learning is an Application of Artificial Intelligence (AI) it gives devices the ability to learn from their experiences andimprove their self without doing any coding. 
+Machine Learning is an Application of Artificial Intelligence (AI) it gives devices the ability to learn from their experiences and improve their self without doing any coding. 
 
 ![image](https://user-images.githubusercontent.com/66083579/153563637-fb3596dc-e00b-4bde-859a-6732050bd626.png)
 
@@ -43,8 +43,25 @@ Image recognition, text generation, and many other use-cases are finding applica
 ⦿    **Feature**:   A feature is a measurable property or parameter of the data-set.
 
 
+![image](https://user-images.githubusercontent.com/66083579/153987843-f6761179-c834-4325-afe7-decf9f3a520b.png)
+
+
+
+⦿    **Feature Selection**:    Feature selection is the process of selecting relevant features from a data-set for creating a Machine Learning model.
+
+
 
 ![image](https://user-images.githubusercontent.com/66083579/153604937-4b95a4ca-7f64-4e83-adb5-833f0a6e3df1.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153653874-6e1cbe4c-118f-42d2-a258-45009ac51bd8.png)
+
+
+
+
 
 
 
@@ -62,6 +79,10 @@ Image recognition, text generation, and many other use-cases are finding applica
 ![image](https://user-images.githubusercontent.com/66083579/153634887-c829d14c-5e56-4de2-8179-e869295ce48d.png)
 
 
+⦿     **Testing**:     In machine learning, model testing is referred to as the process where the performance of a fully trained model is evaluated on a testing set. ... There are a number of statistical metrics that can be used to assess testing results including mean squared errors and receiver operating characteristics curves.
+
+
+![image](https://user-images.githubusercontent.com/66083579/153986790-c9ddc334-358c-49ac-8fc7-73a5e75b2988.png)
 
 
 
@@ -103,7 +124,13 @@ Image recognition, text generation, and many other use-cases are finding applica
 ⦿   **Attribute**:   A quality describing an observation (e.g. color, size, weight). In Excel terms, these are column headers.
 
 
-![image](https://user-images.githubusercontent.com/66083579/153637743-7dce9c90-2a6d-4890-b246-42b2f8217768.png)
+![image](https://user-images.githubusercontent.com/66083579/153988766-2126263e-5248-4b68-867f-52d3157d3693.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153988983-63d42080-f4f9-4e1f-9cd6-458d5570cd6f.png)
 
 
 
@@ -192,10 +219,31 @@ What is the average difference between your predictions and the correct value fo
 ![image](https://user-images.githubusercontent.com/66083579/153639766-540aa02f-d314-4e25-85a8-a88ec41aaf40.png)
 
 
+
+⦿     **Discrete Variables**:  A Discrete variable can take only a specific value amongst the set of all possible values or in other words, if you don’t keep counting that value, then it is a discrete variable aka categorized variable.
+
+Example: Number of students in a university.
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153990323-82773fc0-cfde-4d1b-8ee2-cc20ad589f02.png)
+
+
+
 ⦿    **Convergence**:   A state reached during the training of a model when the loss changes very little between each iteration.
 
 
 ![image](https://user-images.githubusercontent.com/66083579/153649990-b7808c33-641a-4212-a455-c8d5530ddff5.png)
+
+
+
+
+
+⦿    **Divergence**:   A  state during the training of a model when the loss changes is significant or unpredictable at each iteration and  it doesn't convergence at any no of iterations.
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153991325-ae54ff56-f92f-467b-93d3-a604e675b0df.png)
 
 
 
@@ -237,7 +285,17 @@ What is the average difference between your predictions and the correct value fo
 ⦿    **Extrapolation**:   Making predictions outside the range of a dataset. E.g. My dog barks, so all dogs must bark. In machine learning we often run into trouble when we extrapolate outside the range of our training data.
 
 
+
+
+⦿     **Interpolation**:   Interpolation is an estimation of a value within two known values in a sequence of values. Polynomial interpolation is a method of estimating values between known data points.
+
+
+
 ![image](https://user-images.githubusercontent.com/66083579/153653175-03d6cbbd-fdb2-490e-9d20-db9b8044223f.png)
+
+
+
+
 
 
 ⦿    **False Positive Rate**:Defined as
@@ -250,10 +308,6 @@ What is the average difference between your predictions and the correct value fo
 
 
 
-⦿    **Feature Selection**:    Feature selection is the process of selecting relevant features from a data-set for creating a Machine Learning model.
-
-
-![image](https://user-images.githubusercontent.com/66083579/153653874-6e1cbe4c-118f-42d2-a258-45009ac51bd8.png)
 
 
 
@@ -306,6 +360,11 @@ The lower the loss, the better a model (unless the model has over-fitted to the 
 
 ![image](https://user-images.githubusercontent.com/66083579/153717572-dfd9607e-a4e6-435f-8d10-2cae81e01144.png)
 
+
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153993570-06915849-ebaa-4ced-b753-887b7daddc00.png)
 
 
 ⦿     **Normalization**:  Restriction of the values of weights in regression to avoid overfitting and improving computation speed.
@@ -389,6 +448,27 @@ The lower the loss, the better a model (unless the model has over-fitted to the 
 
  
  
+ 
+ ![image](https://user-images.githubusercontent.com/66083579/153994679-c7ff963d-f2d4-4f1f-8fdb-0e2b6ef5a2ac.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153994700-5ea7da74-1569-4883-bff0-a65577ead489.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153994724-c640fd0b-e292-46da-8aab-b69fa08bffb0.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/153994801-7773d451-4a08-4d2e-9a10-b44c9ec386c0.png)
+
+
+
+
+ ![image](https://user-images.githubusercontent.com/66083579/153994826-c7a3ee70-cb85-42bb-8362-f341c1efd5cb.png)
+
  
 
 
