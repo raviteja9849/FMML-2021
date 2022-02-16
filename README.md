@@ -583,6 +583,24 @@ High variance (with low bias) suggests your model may be overfitting and reading
 #  APPLICATIONS OF  MACHINE LEARNING   IN REAL WORLD:
 
 
+**Automous Cars and Navigation**:
+
+
+![image](https://user-images.githubusercontent.com/66083579/154216712-d1b7067b-7190-444d-bcae-7b27715deffc.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154216730-67974553-031c-4148-93cb-e983ded6a3ba.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154216875-d92da9bd-27bf-4f3c-b1a3-e5c74ee6f9d3.png)
+
+
+
+**Personal  Assistants**:
+
+
 
 
 
