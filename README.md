@@ -756,7 +756,7 @@ High variance (with low bias) suggests your model may be overfitting and reading
 
 
 
-#13.Face Detection:
+# 13.Face Detection:
 
 
 ![image](https://user-images.githubusercontent.com/66083579/154235206-b961b0c4-fec9-446d-bea7-cf8b3e2f1d9a.png)
@@ -769,7 +769,7 @@ High variance (with low bias) suggests your model may be overfitting and reading
 ![image](https://user-images.githubusercontent.com/66083579/154235415-c5ecafa1-adf6-476e-a9f2-3bc271c2c269.png)
 
 
-#14.PRODUCT RECOMMENDATION USING ML:
+# 14.PRODUCT RECOMMENDATION USING ML:
 
 ![image](https://user-images.githubusercontent.com/66083579/154235610-494f4916-e0ed-4cb6-829d-c2b8b0e68ab0.png)
 
