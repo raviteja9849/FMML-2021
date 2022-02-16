@@ -30,6 +30,16 @@ With the help of Machine Learning, businesses can automate routine tasks. It als
 Image recognition, text generation, and many other use-cases are finding applications in the real world. This is increasing the scope for machine learning experts to shine as a sought after professionals.  
 
 
+
+# Steps to Build a Machine Learning Model:
+
+
+![image](https://user-images.githubusercontent.com/66083579/154236520-42d3439a-54a2-4e95-9387-cc8fb9804acd.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154236599-7b9e553a-d57d-4626-a3dc-4bdbe17bf635.png)
+
+
 # Some Important   Terminology of Machine Learning:
 
 ⦿    **Model**:   Also known as “hypothesis”, a machine learning model is the mathematical representation of a real-world process.
