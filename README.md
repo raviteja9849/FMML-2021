@@ -778,14 +778,18 @@ High variance (with low bias) suggests your model may be overfitting and reading
 
 ![image](https://user-images.githubusercontent.com/66083579/154236218-ce042921-be29-4e12-9484-d1079c286576.png)
 
+**The above picture shows how YouTube uses performance analytics data to rank videos while matching them to user’s most-watched history demographics, and other parameters
 
 ![image](https://user-images.githubusercontent.com/66083579/154236248-1de5b53e-e21e-43cc-b500-182805ec7763.png)
+
+**YouTube uses performance analytics data to rank videos while matching them to user’s most-watched history demographics, and other parameters.**
+
+
 
 
 ![image](https://user-images.githubusercontent.com/66083579/154236282-505295ae-2428-4e26-846a-6e8c8d5d6d10.png)
 
-
-
+**The above picture shows  how Facebook connects users with close interests to recommend pages, friends, events, groups, games, and more.**
 
 
 
