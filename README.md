@@ -583,12 +583,16 @@ High variance (with low bias) suggests your model may be overfitting and reading
 #  APPLICATIONS OF  MACHINE LEARNING   IN REAL WORLD:
 
 
-**Automous Cars and Navigation**:
+# 1.Autonomous Cars and Navigation:
+
+![image](https://user-images.githubusercontent.com/66083579/154221790-05f1a1d2-3352-4f98-b207-dc4bdb221501.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/66083579/154216712-d1b7067b-7190-444d-bcae-7b27715deffc.png)
 
 
+**Object Detection with LIDAR**
 
 ![image](https://user-images.githubusercontent.com/66083579/154216730-67974553-031c-4148-93cb-e983ded6a3ba.png)
 
@@ -598,11 +602,61 @@ High variance (with low bias) suggests your model may be overfitting and reading
 
 
 
-**Personal  Assistants**:
+# **2.Personal  Assistants**:
+
+![image](https://user-images.githubusercontent.com/66083579/154217648-7623a2eb-b5d6-4ddd-8844-99897be7ff37.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154217674-bea0d414-b90b-4a5b-9e5a-5f4a7c12ce28.png)
+
+
+
+# **3.Create  Photographs and paintings**:
+
+
+![image](https://user-images.githubusercontent.com/66083579/154218299-fc17b2e2-9f76-4489-a8d5-021b6ddfeb70.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154218406-fcd25de2-77b9-45cb-9dad-c3d61453c445.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154218715-df028691-2192-4cee-8a9a-f00fe4ee2eaf.png)
 
 
 
 
+![image](https://user-images.githubusercontent.com/66083579/154218882-fbfc86c8-642d-4717-9ea6-d2d228a6605c.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154218960-87cccbb5-95d2-4a7b-9187-d13e391c93bd.png)
+
+
+# **4:Chess/go Champions**:
+
+
+![image](https://user-images.githubusercontent.com/66083579/154220900-f8ce81cc-4d31-4ccc-a7d5-65289acfb9d7.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154221102-01bd723c-8831-4326-8c34-b4ac57a76042.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154221526-5d300cfc-926e-4abb-ba89-83cbc7fcaafb.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154221558-2e0e60cc-7857-4dd9-bd18-2cff1379df05.png)
+
+
+
+# **5: ML USED IN MEDICAL:
+
+![image](https://user-images.githubusercontent.com/66083579/154222357-5bc94dd5-bcb3-4aec-894c-d3305a665f92.png)
 
 
 
