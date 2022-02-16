@@ -560,13 +560,17 @@ High variance (with low bias) suggests your model may be overfitting and reading
 
 # TOOLS  USED FOR MACHINE LEARNING :
 
+![image](https://user-images.githubusercontent.com/66083579/154214651-2b87fc21-71d8-4417-87c4-bc5bb896776b.png)
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/66083579/154214486-55d3d211-002f-4b4e-a479-594e7b15ca52.png)
 
 
 
 
-![image](https://user-images.githubusercontent.com/66083579/154214651-2b87fc21-71d8-4417-87c4-bc5bb896776b.png)
 
 
 
@@ -576,7 +580,10 @@ High variance (with low bias) suggests your model may be overfitting and reading
 
 
 
-#
+#  APPLICATIONS OF  MACHINE LEARNING   IN REAL WORLD:
+
+
+
 
 
 
