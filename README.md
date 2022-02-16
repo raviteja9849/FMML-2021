@@ -735,12 +735,47 @@ High variance (with low bias) suggests your model may be overfitting and reading
 # 12.MAIL SORTING:
   
   
-  ![image](https://user-images.githubusercontent.com/66083579/154234749-fe2a9121-339c-4ac6-b998-e87f76dd1808.png)
+![image](https://user-images.githubusercontent.com/66083579/154234749-fe2a9121-339c-4ac6-b998-e87f76dd1808.png)
+
 
 
 
   
 ![image](https://user-images.githubusercontent.com/66083579/154234710-5514d771-171e-4014-9692-db6d46b61305.png)
+
+
+
+
+#13.Face Detection:
+
+
+![image](https://user-images.githubusercontent.com/66083579/154235206-b961b0c4-fec9-446d-bea7-cf8b3e2f1d9a.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154235309-c5b5c040-b7ea-419a-ad30-f5a213691df7.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154235415-c5ecafa1-adf6-476e-a9f2-3bc271c2c269.png)
+
+
+#14.PRODUCT RECOMMENDATION USING ML:
+
+![image](https://user-images.githubusercontent.com/66083579/154235610-494f4916-e0ed-4cb6-829d-c2b8b0e68ab0.png)
+
+![image](https://user-images.githubusercontent.com/66083579/154236152-121a3a8b-72b0-4fc4-93b9-3f3213b68c9b.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154236218-ce042921-be29-4e12-9484-d1079c286576.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154236248-1de5b53e-e21e-43cc-b500-182805ec7763.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154236282-505295ae-2428-4e26-846a-6e8c8d5d6d10.png)
+
+
+
 
 
 
