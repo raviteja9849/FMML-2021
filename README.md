@@ -636,7 +636,7 @@ High variance (with low bias) suggests your model may be overfitting and reading
 ![image](https://user-images.githubusercontent.com/66083579/154218960-87cccbb5-95d2-4a7b-9187-d13e391c93bd.png)
 
 
-# **4:Chess/go Champions**:
+# **4.Chess/go Champions**:
 
 
 ![image](https://user-images.githubusercontent.com/66083579/154220900-f8ce81cc-4d31-4ccc-a7d5-65289acfb9d7.png)
@@ -654,9 +654,93 @@ High variance (with low bias) suggests your model may be overfitting and reading
 
 
 
-# **5: ML USED IN MEDICAL:
+# 5.ML USED IN MEDICAL:
 
 ![image](https://user-images.githubusercontent.com/66083579/154222357-5bc94dd5-bcb3-4aec-894c-d3305a665f92.png)
+
+
+# 6.ML USED IN SPACE IMAGING:
+
+
+![image](https://user-images.githubusercontent.com/66083579/154226462-36d28d2b-9cbc-41a6-8eff-173bac29e718.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154226496-e826b7dd-a69c-40da-a2f6-6c3ef932e80a.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154226879-b498280f-d996-4c67-9ca3-73e62101e528.png)
+
+
+
+
+#  7.AUTOMATED INSPECTION USING ML:
+
+![image](https://user-images.githubusercontent.com/66083579/154227926-4ca148aa-91a2-47e2-a019-3a3e93732eab.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154227450-836993bd-4953-4381-a18e-e4ed73d89329.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154227879-609ab2ca-3d4f-475b-b60a-527d8c66a604.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154228039-6b6205d3-0939-44c0-87bc-aabfcb84c654.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154228093-2fa4f4e5-c74b-4248-8e79-4d9588f089c5.png)
+
+
+# 8.BIOMETRICS: 
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154232887-e33e87e1-b6c9-4749-9a18-0101c0d08d0c.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154232941-c1172936-da5b-46fa-8bda-75d64bff0a45.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154232977-c63ae0aa-6cd0-4ce7-8865-eb40869dfc76.png)
+
+
+
+# 9.BROADCASTING:
+
+![image](https://user-images.githubusercontent.com/66083579/154233088-fbe36d89-f624-42fb-9375-a6efb8944be5.png)
+
+
+
+
+# 10.SURVEILLANCE:
+
+![image](https://user-images.githubusercontent.com/66083579/154233713-334a821c-7ad4-4c76-bce9-a9557b963d36.png)
+
+
+![image](https://user-images.githubusercontent.com/66083579/154233739-3cab3031-b185-49c3-b4df-e4c4a5fcff82.png)
+
+
+
+![image](https://user-images.githubusercontent.com/66083579/154233786-6c1ac3ad-5486-4d43-ac3c-15d4e1db65bd.png)
+
+
+# 11.AUTOMATED ASSEMBLY:
+
+![image](https://user-images.githubusercontent.com/66083579/154234209-60ed352d-5069-43d3-8efc-24fe0ae992bc.png)
+
+
+# 12.MAIL SORTING:
+  
+  
+  ![image](https://user-images.githubusercontent.com/66083579/154234749-fe2a9121-339c-4ac6-b998-e87f76dd1808.png)
+
+
+
+  
+![image](https://user-images.githubusercontent.com/66083579/154234710-5514d771-171e-4014-9692-db6d46b61305.png)
 
 
 
